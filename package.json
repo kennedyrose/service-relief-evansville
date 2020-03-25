@@ -22,6 +22,7 @@
     "react-dom": "^16.12.0"
   },
   "devDependencies": {
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "gatsby-plugin-google-analytics": "^2.2.2"
   }
 }
